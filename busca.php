@@ -1,5 +1,9 @@
 <h3> Cotação moeda</h3>
-
+<br>
+<div>
+    <button id="buscardol"> Dólar agora </button>
+</div>
+<br>
 <div>
     <p>Compra: <span id="bid"> </span> </p>
     <p>Venda: <span id="ask"> </span> </p>
